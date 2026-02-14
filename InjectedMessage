@@ -1,0 +1,5 @@
+game:GetService("StarterGui"):SetCore("SendNotification", {
+	Title = "Fen",
+	Text = "Injected.",
+	Duration = 3
+})
